@@ -30,4 +30,4 @@ Un système complet pour gérer les rendez-vous dans une clinique médicale, ave
 
 1. Cloner le dépôt:
 ```bash
-git clone https://github.com/votre-utilisateur/clinique-rv.git
+git clone https://github.com/votre-utilisateur/clinique-rv.git"# projetRattrappage2" 
